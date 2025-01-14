@@ -12,6 +12,9 @@
 #### ポートフォリオ
 - GitHubURL: https://github.com/yama-chiiii/portfolio
 
+#### 高専祭制作物
+- GitHubURL: https://github.com/yama-chiiii/Kosen-festival
+
 #### おかしにっき
 - GitHubURL: https://github.com/yama-chiiii/SweetDiary-DX
 
