@@ -11,12 +11,14 @@
   
 #### ポートフォリオ
 - GitHubURL: https://github.com/yama-chiiii/portfolio
+- URL: https://yama-chiiii-portfolio.vercel.app/
 
 #### 高専祭制作物
 - GitHubURL: https://github.com/yama-chiiii/Kosen-festival
 
 #### おかしにっき
 - GitHubURL: https://github.com/yama-chiiii/SweetDiary-DX
+- URL: https://sweet-diary-dx.vercel.app
 
 #### リノまち！
 - GitHubURL: https://github.com/yama-chiiii/Rinomachi-Front
