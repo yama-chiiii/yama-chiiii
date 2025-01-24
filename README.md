@@ -22,3 +22,6 @@
 
 #### リノまち！
 - GitHubURL: https://github.com/yama-chiiii/Rinomachi-Front
+
+#### 卒業研究
+- GitHubURL: https://github.com/yama-chiiii/Sotsuken
